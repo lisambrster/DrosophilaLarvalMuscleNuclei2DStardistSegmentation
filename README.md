@@ -18,7 +18,7 @@ python 2D_Stardist_prediction.py -d '/Users/lbrown/Documents/Mary/Bob/Files for 
 
 where you put your path and this path contains one file ending with 'Hoe.tif'
 
-The outputs will be put in this path and include\
+The outputs will be put in the same path and include\
 (1) an instance segmentation label image (each nucleus is labeled with a different number, and the background is 0)\
 (2) roi.zip file which can be used in FIJI
 
