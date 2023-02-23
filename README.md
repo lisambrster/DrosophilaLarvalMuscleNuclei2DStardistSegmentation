@@ -5,14 +5,15 @@ To install:
 
 Assuming you have python installed,
 
-git clone git@github.com:lisambrster/DrosophilaLarvalMuscleNuclei2DStardistSegmentation.git
+git clone git@github.com:lisambrster/DrosophilaLarvalMuscleNuclei2DStardistSegmentation.git\
 pip install tensorflow\
 pip install stardist
 
 
 To run:
 
-from the DrosophilaLarvalMuscleNuclei2DStardistSegmentation directory, run\
+from the DrosophilaLarvalMuscleNuclei2DStardistSegmentation directory, run
+
 python 2D_Stardist_prediction.py -d '/Users/lbrown/Documents/Mary/Bob/Files for Lisa/5_Test-images/2022-07-08_Fz2C/2022-07-08_Fz2C_L1-L2/'
 
 where you put your path and this path contains one file ending with 'Hoe.tif'
