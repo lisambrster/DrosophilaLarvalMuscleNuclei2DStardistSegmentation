@@ -5,9 +5,11 @@ To install:
 
 Assuming you have python installed,
 
-git clone 
+git clone git@github.com:lisambrster/DrosophilaLarvalMuscleNuclei2DStardistSegmentation.git
 pip install tensorflow\
-pip install stardist\
+pip install stardist
+
+
 To run:
 
 from the DrosophilaLarvalMuscleNuclei2DStardistSegmentation directory, run\
