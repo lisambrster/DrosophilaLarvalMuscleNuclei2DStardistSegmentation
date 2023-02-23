@@ -6,8 +6,8 @@ To install:
 Assuming you have python installed,
 
 git clone 
-pip install tensorflow
-pip install stardist
+pip install tensorflow\
+pip install stardist\
 
 To run:
 
