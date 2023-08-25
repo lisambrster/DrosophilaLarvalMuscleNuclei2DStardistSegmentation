@@ -29,6 +29,6 @@ python MakeContoursOnRawImage.py -l label_image -r raw_image
 
 This assumes cell csv files and the label image (labels.tif) are in the same directory as the raw image
 
-<img src='vis.png'>
+<img src='https://github.com/lisambrster/DrosophilaLarvalMuscleNuclei2DStardistSegmentation/vis.png'>
 
 
