@@ -24,6 +24,7 @@ The outputs will be put in the same path and include\
 
 
 To draw contours of labels on image and the contours of the two muscle cells (from the csv files) run:\
+
 python MakeContoursOnRawImage.py -l label_image -r raw_image
 
 This assumes cell csv files and the label image (labels.tif) are in the same directory as the raw image
