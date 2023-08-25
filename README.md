@@ -23,7 +23,7 @@ The outputs will be put in the same path and include\
 (2) roi.zip file which can be used in FIJI
 
 
-To draw contours of labels on image and the contours of the two muscle cells (from the csv files) run:
+To draw contours of labels on image and the contours of the two muscle cells (from the csv files) run:\
 python MakeContoursOnRawImage.py -l label_image -r raw_image
 
 This assumes cell csv files and the label image (labels.tif) are in the same directory as the raw image
